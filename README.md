@@ -1,3 +1,5 @@
+Archived. Use [Morphe-Desktop](https://github.com/MorpheApp/morphe-desktop).
+
 # Patcher-CLI-GUI
 Portable GUI for ReVanced-Cli and Morphe-Cli.
 
